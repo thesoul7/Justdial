@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31273" started-at="2020-10-30T17:56:33 IST" finished-at="2020-10-30T17:57:04 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31273" started-at="2020-10-30T17:56:33 IST" finished-at="2020-10-30T17:57:04 IST">
+      <class name="com.testscripts.GetAddress">
+        <test-method status="PASS" signature="appOpen()[pri:0, instance:com.testscripts.GetAddress@7f13d6e]" name="appOpen" is-config="true" duration-ms="30203" started-at="2020-10-30T17:56:33 IST" finished-at="2020-10-30T17:57:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appOpen -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.testscripts.GetAddress@7f13d6e]" name="test1" duration-ms="381" started-at="2020-10-30T17:57:03 IST" finished-at="2020-10-30T17:57:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:com.testscripts.GetAddress@7f13d6e]" name="closeApp" is-config="true" duration-ms="638" started-at="2020-10-30T17:57:04 IST" finished-at="2020-10-30T17:57:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- com.testscripts.GetAddress -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
